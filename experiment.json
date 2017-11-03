@@ -1,0 +1,12 @@
+{
+    "name": "expfactory_keep_track",
+    "alt_name": "Keep Track Task",
+    "description": "In each trial of the keep track task (adapted from Yntema, 1963), participants were first shown several target categories at the bottom of the computer screen. Fifteen words, make up of 2 or 3 exemplars from each of six possible categories (animals, colors, countries, distances, metals, and relatives), were then presented serially and in random order for 1500 ms apiece, with the target categories remaining at the bottom of the screen. The task was to remember the last word presented in each of the target categories and then write down these words at the end of the trial.",
+    "version": "1.0.1",
+    "repository": {"type": "git", "url": "https://github.com/exprxiv/expfactory_information_sampling_task.git"}, 
+    "contributors": ["Ian Eisenberg", "Zeynep Enkavi", "Patrick Bissett", "Vanessa Sochat", "Teon L Brooks", "Russell Poldrack"],
+    "duration": "6",
+    "engine": {"front-end": "jspsych"},
+    "ontology": [ {"convention": "Cognitive Atlas", "term": "trm_4c40d4054f38b"} ],
+    "reference": "http://www.sciencedirect.com/science/article/pii/S001002859990734X"
+}
